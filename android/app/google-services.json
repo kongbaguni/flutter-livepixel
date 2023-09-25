@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56899597500",
+    "firebase_url": "https://livepixel-361f8-default-rtdb.firebaseio.com",
+    "project_id": "livepixel-361f8",
+    "storage_bucket": "livepixel-361f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56899597500:android:483272670fd5be76d1ccb9",
+        "android_client_info": {
+          "package_name": "net.kongbaguni.flutter.livepixel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56899597500-qic6vjl5i3fmlecb4gfio39s14664uq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdm9UEP2WTO1DxD45Zy4Gq5OWhOUIQmTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56899597500-0n9gspqdk932brgrohnc1nq7fsq9aidh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56899597500-e14mgmilaic2656a7fgg7rdkgo9kti23.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.livepixel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
